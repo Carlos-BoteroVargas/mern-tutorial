@@ -11,7 +11,7 @@
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix frontend && npm run build --prefix frontend"
   },
   "repository": {
-    "type": "git",
+    "type": "git", 
     "url": "git+https://github.com/Carlos-BoteroVargas/mern-tutorial.git"
   },
   "author": "Carlos Botero-Vargas ",
